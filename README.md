@@ -1,5 +1,3 @@
-# AC_66
-
 ### HOW TO RUN
 To run the code you need python with the following libraries installed:
 - numpy
